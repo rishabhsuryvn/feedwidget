@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-   <Widget/>
+   <Widget projecId='1'/>
     </>
   )
 }
